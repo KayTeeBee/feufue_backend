@@ -1,4 +1,4 @@
-package de.feufue.model.States;
+package de.feufue.model.properties;
 
 public enum GroupState {
     INITIAL_WAITING,
